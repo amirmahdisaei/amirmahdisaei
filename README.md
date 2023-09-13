@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Saei AmirMahdi Amir</h1>
+<h1 align="center">Hi 👋, I'm Amir Saei</h1>
 <h3 align="center">A novice android programer from Iran</h3>
 
 <h3 align="left">Connect with me:</h3>
