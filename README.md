@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/amirmahdisaei?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amirmahdisaei"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdisaei&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="amirmahdisaei's GitHub stats" /></a>
+<a href="http://www.github.com/amirmahdisaei"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdisaei&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="amirmahdisaei's GitHub stats" /></a>
