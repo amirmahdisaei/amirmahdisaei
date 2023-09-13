@@ -9,7 +9,7 @@ Novice Android developer
 * 🧠  I'm learning Kotlin
 
 <a href="https://www.github.com/amirmahdisaei" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amirmahdisaei?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/amirmahdisaei?logo=github&style=for-the-badge&color=f97316&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/amirmahdisaei?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amirmahdisaei"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdisaei&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amirmahdisaei's GitHub stats" /></a>
+<a href="http://www.github.com/amirmahdisaei"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdisaei&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="amirmahdisaei's GitHub stats" /></a>
